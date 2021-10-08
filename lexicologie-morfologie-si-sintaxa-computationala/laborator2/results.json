@@ -1,0 +1,4088 @@
+[
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Aniversarea"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Teatrului"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Național"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Iași\r\n25/11/2020"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "UN"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Cristian"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "0"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Comentarii\r\n"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Tipăreşte"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "pagina"
+    },
+    {
+        "mainType": "URL",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "http://teatrulnational.ro\r\nRecomandă"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "articolul\r\nExpoziții"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "pe"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "pietonalul"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "Ștefan"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "cel"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Mare,"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "în"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Copou"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "și"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "pe"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "esplanada"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Teatrului"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Național,"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "cu"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "ocazia"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "aniversării"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "a"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "180"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "de"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "ani"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "de"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "la"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "înființarea"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "instituției"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Teatrului"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Național"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Iași\r\n\r\nAcum"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "180"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "de"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "ani,"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "la"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Iași,"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "lua"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "ființă"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "primul"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Teatru"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Național"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "și"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "prima"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "instituție"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "de"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "spectacole"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "de"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "stat"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "din"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "spațiul"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "românesc,"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "sub"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "directoratul"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "lui"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Costache"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Negruzzi,"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "Vasile"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Alecsandri"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "și"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Mihail"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Kogălniceanu."
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "La"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "acea"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "vreme,"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "pe"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "18"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "noiembrie,"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "avea"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "loc"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "cea"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "dintâi"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "premieră"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "românească"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "sub"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "acoperișul"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "unei"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "instituții"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "teatrale"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "naționale"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "de"
+    },
+    {
+        "mainType": "URL",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "stat:"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "spectacolul"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "„Farmazonul"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "din"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Hârlău”"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "de"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "Vasile"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Alecsandri,"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "pus"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "în"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "scenă"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "de"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Costache"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Caragiali.\r\n\r\nSărbătoarea"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Teatrului"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Național"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Iași"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "este"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "marcată"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "printr-o"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "suită"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "de"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "evenimente"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "care"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "are"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "menirea"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "de"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "a"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "oferi"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "publicului"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "accesul"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "la"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "istoria"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "fascinantă"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "de"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "180"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "de"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "ani"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "a"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "scenei"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "naționale"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "ieșene"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "de"
+    },
+    {
+        "mainType": "URL",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "teatru:"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "expoziții,"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "lansare"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "de"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "album"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "și"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "numeroase"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "momente"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "în"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "spațiul"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "virtual.\r\n\r\nÎncepând"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "de"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "miercuri,"
+    },
+    {
+        "mainType": "IP",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "192.168.255.1"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "în"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "cadrul"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "campaniei"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "„TNI"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "180"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "–"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "stagiuni"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "naționale"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "neîntrerupte”,"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Teatrul"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Național"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Iași"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "deschide"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "expoziția"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "„Spectacolul"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Istoriei”,"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "realizată"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "în"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "parteneriat"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "cu"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Primăria"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Municipiului"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Iași,"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Muzeului"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Județean"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "de"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Istorie"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Brașov"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "și"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Muzeului"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Literaturii"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Române."
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Expoziția"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "va"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "putea"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "fi"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "admirată"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "de"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "public"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "pe"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "pietonalul"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "„Ștefan"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "cel"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Mare"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "și"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Sfânt”"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "și"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "în"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Copou,"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "la"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Galeria"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Labirint"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "a"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Casei"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "de"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Cultură"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "„Mihai"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "Ursachi”.\r\n\r\nCristina"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Rădulescu,"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "secretar"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "literar"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "al"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Naționalului"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "ieșean"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "și"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "coordonatorul"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "proiectului"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "„Spectacolul"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Istoriei”:"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "„Expoziția"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "acoperă"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "un"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "parcurs"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "evenimențial"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "de"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "mai"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "bine"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "de"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "un"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "secol"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "și"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "ilustrează"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "iconografic"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "cele"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "mai"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "importante"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "momente"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "care"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "au"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "marcat"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "evoluția"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "primului"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "teatru"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "național"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "din"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "România"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "–"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "de"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "la"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "înființare"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "până"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "în"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "anii"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "’70.\r\n\r\nPe"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "pietonalul"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "Ștefan"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "cel"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Mare"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "din"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Iași"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "vor"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "fi"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "amplasate"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "20"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "de"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "simeze"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "cu"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "documente"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "de"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "arhivă,"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "imagini"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "din"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "spectacole"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "–"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "unele"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "expuse"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "în"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "premieră"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "–,"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "fotografii"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "din"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "colecții"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "private,"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "corespondență"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "administrativă,"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "care"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "încearcă"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "să"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "reconstituie"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "pașii"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "unei"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "istorii"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "vii"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "și"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "tot"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "spectacolul"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "ei.\r\n\r\nMulțumim"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "pentru"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "implicare"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "și"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "parteneriat"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Primăriei"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Municipiului"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Iași,"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Muzeului"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Județean"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "de"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Istorie"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Brașov"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "și"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Muzeului"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Literaturii"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Române"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "–"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Colecția"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Istoria"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Teatrului"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Românesc"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "prin"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "amabilitatea"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "muzeografei"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Laura"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Terente.”\r\n\r\nTot"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "de"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "pe"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "25"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "noiembrie,"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "ieșenii"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "care"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "trec"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "prin"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "parcul"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Teatrului"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Național"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "se"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "vor"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "bucura"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "de"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "o"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "colecție"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "valoroasă"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "de"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "afișe"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "din"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "perioada"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "1840-2020."
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Secretarul"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "literar"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Silvia"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Ghilaș,"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "cea"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "care"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "a"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "făcut"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "posibilă"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "realizarea"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "acestei"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "galerii"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "în"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "aer"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "liber,"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "oferă"
+    },
+    {
+        "mainType": "URL",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "detalii:"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "„Cel"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "mai"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "vechi"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "afiș"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "datează"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "din"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "anul"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "1840"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "și"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "aparține"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "primului"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "spectacol"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "prezentat"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "sub"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "egida"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Teatrului"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Național,"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "„Farmazonul"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "din"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Hârlău”"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "de"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "V."
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Alecsandri.\r\n\r\nAfișele"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "expuse"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "aduc"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "o"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "cantitate"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "semnificativă"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "de"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "informații"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "legate"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "de"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "actori,"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "repertoriu,"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "sălile"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "unde"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "au"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "fost"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "prezentate"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "spectacolele."
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "E"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "interesant"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "de"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "observat"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "evoluția"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "repertoriului"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Teatrului"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Național"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "pe"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "parcursul"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "celor"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "180"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "de"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "ani,"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "dar"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "și,"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "de"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "ce"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "nu,"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "dezvoltarea"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "elementelor"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "grafice"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "care"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "creează"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "identitatea"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "vizuală"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "a"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "unui"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "spectacol.\r\n\r\nAfișele"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "prezentate"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "fac"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "parte"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "din"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "colecția"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Istoria"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Teatrului"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Românesc"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "(perioada"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "1880"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "-1919)"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "ce"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "se"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "află"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "la"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Muzeul"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Național"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "al"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Literaturii"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "din"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Iași,"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Muzeul"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Teatrului,"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "din"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "arhiva"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Teatrului"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Național,"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "dar"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "și"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "din"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "colecțiile"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "personale"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "ale"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "unor"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "actori.”\r\n\r\nTeatrul"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Național"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Iași"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "va"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "continua"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "campania"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "„TNI"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "180"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "–"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "stagiuni"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "naționale"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "neîntrerupte”"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "până"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "la"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "sfârșitul"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "anului.\r\n\r\nContact"
+    },
+    {
+        "mainType": "EMAIL",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "contact@teatrunational.ro"
+    },
+    {
+        "mainType": "URL",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "http://test.ro"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Comunicat"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "de"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "presă"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Teatrul"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Național"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [
+                "noun"
+            ],
+            "ambiguityLevel": 1000
+        },
+        "value": "Iași"
+    },
+    {
+        "mainType": "WORD",
+        "node": {
+            "nodeTypes": [],
+            "ambiguityLevel": 1000
+        },
+        "value": "\r\n"
+    }
+]
