@@ -5,24 +5,28 @@ PROP =
 
 ws "whitespace" = [ \t\n\r]*
 
-
 proposition
-  = subject predicat? complement?
-
+  = subject ws predicat ws prepositiongroup? object ws? prepositiongroup? object?
+   / object ws predicat ws prepositiongroup? subject
 
 subject
     = sequence:("subject")
     { return sequence; }
 
 predicat
-    = ws chars:char* ws { return chars.join(""); }
+    = sequence:("predicat")
+    { return sequence; }
 
-complement
-    = ['']*
+object
+    = sequence:("object")
+    { return sequence; }
 
 prepositiongroup
-    = ['']*
+    = on ws
 
+on 
+    = sequence:("on")
+    { return sequence; }
 
 string "string"
   = quotation_mark chars:char* quotation_mark { return chars.join(""); }
