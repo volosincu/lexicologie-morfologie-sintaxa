@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html>
+<title>LMSSC Cuvinte incrucisate</title>
+
+<style>
+
+#wrapper {
+  border: 1px solid black;
+  width: 450px;
+  height: 450px;
+  margin: 0 auto;
+}
+
+#inputs, #hints-in {
+border: none;
+  width: 450px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+
+#hints-in .word {
+    display: inline-block;
+    max-width: 200px;
+    min-width: 100px;
+    width: 80%;
+    padding: 10px;
+}
+
+#inputs .word-in {
+    display: inline-block;
+    width: 80%;
+    padding: 10px;
+}
+
+div {
+  contentEditable: true;  
+}
+
+.filled {
+  width: 28px;
+  height: 28px;
+  background: rgb(50, 130, 221);
+  border: 1px solid rgb(22, 46, 97);
+  padding: 0;
+  margin: 0;
+  float: left;
+}
+
+.empty {
+  width: 28px;
+  height: 28px;
+  border: 1px solid black;
+  padding: 0;
+  margin: 0;
+  float: left;
+}
+
+.numbered {
+  counter-increment: value;
+}
+
+.numbered:nth-of-type(n)::before {
+  content: counter(value);
+  font-size: 10px;
+  position: absolute;
+}
+</style>
+<body>
+
+    <div id="wrapper"> <!-- 15 x 15 block -->
+        <!-- first row -->
+        <div class="empty numbered"></div>
+        <div class="empty numbered"></div>
+        <div class="empty numbered"></div>
+        <div class="empty numbered"></div>
+        <div class="empty numbered"></div>
+        <div class="filled"></div>
+        <div class="empty numbered"></div>
+        <div class="empty numbered"></div>
+        <div class="empty numbered"></div>
+        <div class="empty numbered"></div>
+        <div class="empty numbered"></div>
+        <div class="filled"></div>
+        <div class="empty numbered"></div>
+        <div class="empty numbered"></div>
+        <div class="empty numbered"></div>
+        <!-- second row -->
+        <div class="empty numbered"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="filled"></div>
+        <div class="empty numbered"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="filled"></div>
+        <div class="empty numbered"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <!-- third row -->
+        <div class="empty numbered"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty numbered"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="filled"></div>
+        <div class="empty numbered"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <!-- fourth row -->
+        <div class="empty numbered"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="filled"></div>
+        <div class="empty numbered"></div>
+        <div class="empty"></div>
+        <div class="empty numbered"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <!-- fifth row -->
+        <div class="filled"></div>
+        <div class="filled"></div>
+        <div class="filled"></div>
+        <div class="filled"></div>
+        <div class="empty numbered"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="filled"></div>
+        <div class="empty numbered"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <!-- sixth row -->
+        <div class="empty numbered"></div>
+        <div class="empty numbered"></div>
+        <div class="empty numbered"></div>
+        <div class="empty numbered"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="filled"></div>
+        <div class="empty numbered"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="filled"></div>
+        <div class="filled"></div>
+        <div class="filled"></div>
+        <!-- seventh row -->
+        <div class="empty numbered"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="filled"></div>
+        <div class="empty numbered"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="filled"></div>
+        <div class="filled"></div>
+        <div class="empty numbered"></div>
+        <div class="empty numbered"></div>
+        <div class="empty numbered"></div>
+        <!-- eighth row -->
+        <div class="empty numbered"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty numbered"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty numbered"></div>
+        <div class="empty numbered"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <!-- ninth row -->
+        <div class="empty numbered"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="filled"></div>
+        <div class="filled"></div>
+        <div class="empty numbered"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="filled"></div>
+        <div class="empty numbered"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <!-- tenth row -->
+        <div class="filled"></div>
+        <div class="filled"></div>
+        <div class="filled"></div>
+        <div class="empty numbered"></div>
+        <div class="empty numbered"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="filled"></div>
+        <div class="empty numbered"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <!-- eleventh row -->
+        <div class="empty numbered"></div>
+        <div class="empty numbered"></div>
+        <div class="empty numbered"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="filled"></div>
+        <div class="empty numbered"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="filled"></div>
+        <div class="filled"></div>
+        <div class="filled"></div>
+        <div class="filled"></div>
+        <!-- twelfth row -->
+        <div class="empty numbered"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="filled"></div>
+        <div class="empty numbered"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty numbered"></div>
+        <div class="empty numbered"></div>
+        <div class="empty numbered"></div>
+        <div class="empty numbered"></div>
+        <!-- thirteenth row -->
+        <div class="empty numbered"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="filled"></div>
+        <div class="empty numbered"></div>
+        <div class="empty"></div>
+        <div class="empty numbered"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <!-- fourteenth row -->
+        <div class="empty numbered"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="filled"></div>
+        <div class="empty numbered"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="filled"></div>
+        <div class="empty numbered"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <!-- fifteenth row -->
+        <div class="empty numbered"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="filled"></div>
+        <div class="empty numbered"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="filled"></div>
+        <div class="empty numbered"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+        <div class="empty"></div>
+      </div>
+
+      
+      <div id="inputs">
+        <div class="word-in" id="word-0"><input id="cuvant"></div>
+        <button id="cauta">Cauta</button>
+      </div>
+
+
+
+      <div id="hints-in">
+        <div class="word" id="word-1"><input id="hint1"></div>
+        <div class="word" id="word-2"><input id="hint2"></div>
+        <div class="word" id="word-3"><input id="hint3"></div>
+        <div class="word" id="word-4"><input id="hint4"></div>
+      </div>
+      
+
+      <ul id="hints">
+
+      </ul>
+
+      <script
+        src="https://code.jquery.com/jquery-3.6.0.min.js"
+        integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+        crossorigin="anonymous"></script>
+
+      <script>
+          var poll = function () {
+            $.ajax({
+            url: "http://localhost:4005/word",
+            success: function(data){
+                console.log(data); // { text: "Some data" } -> will be printed in your browser console every 5 seconds
+               
+                // li.innerText = JSON.stringify(data.synonyms);
+                // document.getElementById("hints").append(li);
+
+                const sy = data.synonyms || [];
+
+                const lis = sy.slice(0, 3).map((e)=>{
+                    const li = document.createElement("li")
+                    li.innerText = JSON.stringify(e);
+                    return li;
+                });
+
+                $("#hints").append(lis);
+                poll();
+            },
+            error: function() {
+                poll();
+            },
+            timeout: 8000 // 30 seconds
+            });
+        };
+
+        // Make sure to call it once first,
+        poll();
+
+        $("#cuvant").on("keyup", function (e){
+            if (e.key === 'Enter' || e.keyCode === 13) {
+                search(e.target.value)
+                console.log(e.target.value);
+            }
+           
+        });
+
+        $("#cauta").on("click", function (e){
+            search($("#cuvant").val())
+            console.log($("#cuvant").val());
+        });
+
+
+
+
+        function search(word) {
+            $.ajax({
+            url: "http://localhost:4005/search?word="+word,
+                success: function(data){
+                },
+                error: function() {
+                }});
+        }
+
+      </script>
+</body>
+</html>

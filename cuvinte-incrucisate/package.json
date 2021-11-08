@@ -1,0 +1,24 @@
+{
+  "name": "cuvinte-incrucisate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-longpoll": "0.0.6",
+    "node-wordnet": "^0.1.12",
+    "prompt": "^1.2.0",
+    "query-string": "^7.0.1",
+    "request": "^2.88.2",
+    "wndb-with-exceptions": "^3.0.2",
+    "wordnet-db": "^3.1.14",
+    "ws": "^8.2.3",
+    "yargs": "^17.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
